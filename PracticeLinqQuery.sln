@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeLinqQuery", "PracticeLinqQuery\PracticeLinqQuery.csproj", "{06CF339F-CA68-45AB-AEFA-EC1C1AA6B19C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CF339F-CA68-45AB-AEFA-EC1C1AA6B19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CF339F-CA68-45AB-AEFA-EC1C1AA6B19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CF339F-CA68-45AB-AEFA-EC1C1AA6B19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CF339F-CA68-45AB-AEFA-EC1C1AA6B19C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1542084-C312-4A70-B800-25F5CAF9018A}
+	EndGlobalSection
+EndGlobal
